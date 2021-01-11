@@ -1,4 +1,7 @@
-# tutorial
+# kedro tutorial 
+自分なりの Kedro 入門資料
+
+![](assets/kedro%20viz.png)
 
 ## Overview
 
