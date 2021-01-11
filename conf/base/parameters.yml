@@ -1,0 +1,9 @@
+# Parameters for the example pipeline. Feel free to delete these once you
+# remove the example pipeline from hooks.py and the example nodes in
+# `src/pipelines/`
+example_test_data_ratio: 0.2
+sklearn_model_criterion: gini
+sklearn_model_seed: 0
+sklearn_model_max_leaf_nodes: 100
+
+
